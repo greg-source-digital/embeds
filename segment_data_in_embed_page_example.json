@@ -1,0 +1,7173 @@
+[
+	{
+		"__type": "Source.Timelines.TimelineSegmentInfo, Source.Core",
+		"id": "59230e741061d41394fae14f",
+		"timelineId": null,
+		"startTimeMs": 168501,
+		"endTimeMs": 212834,
+		"durationMs": 44333,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "59230dd81061d41394fadf59",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Alabama Shakes",
+			"description": "Self",
+			"timelineText": "Alabama Shakes ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/d72bb0cf-66d6-4887-a15a-26b842048994.jpg",
+			"media": [
+				{
+					"id": "59230e291061d41394fadff3",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/d72bb0cf-66d6-4887-a15a-26b842048994.jpg",
+					"name": "Alabama_Shakes.jpg",
+					"fileName": "Alabama_Shakes.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 78612,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Alabama",
+				"lastName": "Shakes",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/theAlabamaShakes/",
+				"twitterUsername": "#alabamashakes",
+				"bio":
+					"Alabama Shakes is an American blues rock band formed in Athens, Alabama in 2009. The band currently consists of lead singer and guitarist Brittany Howard, guitarist Heath Fogg, bassist Zac Cockrell, and drummer Steve Johnson. The group rose to prominence in the early 2010s with their distinctive and soulful roots rock sound.",
+				"web": "http://www.alabamashakes.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.0543478260869565,
+			"y": 0.169823841698842,
+			"width": 0.25,
+			"height": 0.428571428571429
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "592310911061d41394fae5f0",
+		"timelineId": null,
+		"startTimeMs": 11668,
+		"endTimeMs": 15459,
+		"durationMs": 3791,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "5923106d1061d41394fae4be",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Roadwings Productions",
+			"description": "Self",
+			"timelineText": "Roadwings Productions ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/586b40e2-0395-4f01-b326-649de3c6aab8.png",
+			"media": [
+				{
+					"id": "592310761061d41394fae500",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/586b40e2-0395-4f01-b326-649de3c6aab8.png",
+					"name": "roadwings-logowhite_op146x148.png",
+					"fileName": "roadwings-logowhite_op146x148.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 9487,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Roadwings Productions",
+				"characterName": "Self",
+				"gender": "Company",
+				"imdbLink":
+					"http://www.imdb.com/company/co0395780/?ref_=fn_al_co_1",
+				"facebookLink":
+					"https://www.facebook.com/search/top/?q=roadwings%20entertainment",
+				"twitterUsername": "",
+				"bio":
+					"Inspired and imaginative, Roadwings Entertainment is a passionately creative production company. With offices in Austin, San Francisco, New York City, and Las Vegas, our expert and inventive team brings top tier talent to the art of storytelling. We produce content for all audiences, through a panorama of media, including documentary and feature films, music videos, commercials, web videos, and print photography.",
+				"web": "https://vimeo.com/channels/139539"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.173304664985591,
+			"y": 0.534254807692308,
+			"width": 0.0706051873198847,
+			"height": 0.115384615384615
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "592311781061d41394fae84b",
+		"timelineId": null,
+		"startTimeMs": 261417,
+		"endTimeMs": 271459,
+		"durationMs": 10042,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "592311181061d41394fae6c4",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Run the Jewels",
+			"description": "Self",
+			"timelineText": "Run the Jewels ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+			"media": [
+				{
+					"id": "592311601061d41394fae772",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+					"name": "run-the-jewels logo.jpg",
+					"fileName": "run-the-jewels logo.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 232763,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Run the Jewels",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/therealrunthejewels/",
+				"twitterUsername": "#runthejewels",
+				"bio":
+					"Run the Jewels, also known by the initialism RTJ, is an American hip hop[1][2] supergroup formed in 2013 by rapper/producer El-P and rapper Killer Mike.[3] They released their acclaimed debut studio album, Run the Jewels, as a free digital download in 2013.",
+				"web": "https://runthejewels.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.461647727272727,
+			"y": 0.588383838383838,
+			"width": 0.0823863636363636,
+			"height": 0.131313131313131
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "592312641061d41394faea8e",
+		"timelineId": null,
+		"startTimeMs": 249668,
+		"endTimeMs": 261375,
+		"durationMs": 11707,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "592311f81061d41394fae91d",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Gary Clark Jr.",
+			"description": "Self",
+			"timelineText": "Gary Clark Jr. ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/4a4f618c-f197-4e23-9af3-4fef714b6d44.jpg",
+			"media": [
+				{
+					"id": "592311fc1061d41394fae946",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/4a4f618c-f197-4e23-9af3-4fef714b6d44.jpg",
+					"name": "Gary_Clark,_Jr._2013.jpg",
+					"fileName": "Gary_Clark,_Jr._2013.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 162657,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Gary",
+				"lastName": "Clark Jr.",
+				"characterName": "Self",
+				"gender": "Male",
+				"bio":
+					"Gary Clark Jr.[1] (born February 15, 1984) is an American musician from Austin, Texas.[2][3][4] Dubbed 'The Chosen One', Clark has shared the stage with many legends of rock and roll, including Eric Clapton, B. B. King and the Rolling Stones.[5] He is best known for his fusion of blues, rock and soul music with elements of hip hop.",
+				"web": "http://www.garyclarkjr.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.170454545454545,
+			"y": 0.184343434343434,
+			"width": 0.078125,
+			"height": 0.133838383838384
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "592313831061d41394faed1e",
+		"timelineId": null,
+		"startTimeMs": 229334,
+		"endTimeMs": 249626,
+		"durationMs": 20292,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "592313681061d41394faebf1",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Rhiannon Giddins",
+			"description": "Self",
+			"timelineText": "Rhiannon Giddins ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/086515d3-03db-4c2e-a893-612e2d0e1380.jpg",
+			"media": [
+				{
+					"id": "5923136d1061d41394faec1a",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/086515d3-03db-4c2e-a893-612e2d0e1380.jpg",
+					"name": "Rhiannon Giddens.jpg",
+					"fileName": "Rhiannon Giddens.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 29570,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Rhiannon",
+				"lastName": "Giddins",
+				"characterName": "Self",
+				"gender": "Female",
+				"facebookLink":
+					"https://www.facebook.com/RhiannonGiddensMusic/",
+				"twitterUsername": "#rhiannongiddins",
+				"bio":
+					"Rhiannon Giddens is an American musician. She is known as the lead singer, violinist, banjo player and a founding member of the Grammy-winning country, blues and old-time music band Carolina Chocolate Drops.",
+				"web": "http://www.rhiannongiddens.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.286939538043478,
+			"y": 0.220047055984556,
+			"width": 0.33695652173913,
+			"height": 0.405405405405405
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "592314781061d41394faef9d",
+		"timelineId": null,
+		"startTimeMs": 297250,
+		"endTimeMs": 538459,
+		"durationMs": 241209,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "5923144b1061d41394faee4d",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Moon Taxi",
+			"description": "Self",
+			"timelineText": "Moon Taxi ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+			"media": [
+				{
+					"id": "592314671061d41394faee83",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+					"name": "Moon Taxi.jpeg",
+					"fileName": "Moon Taxi.jpeg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 24947,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Moon",
+				"lastName": "Taxi",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/ridethemoontaxi/",
+				"twitterUsername": "@moontaxi",
+				"bio":
+					"Moon Taxi is an American indie-progressive rock band based in Nashville, Tennessee. The band was founded in 2006 by Trevor Terndrup, Tommy Putnam, Spencer Thomson, Tyler Ritter, and Wes Bailey while attending Belmont University.",
+				"web": "http://ridethemoontaxi.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.00284090909090909,
+			"y": 0.426767676767677,
+			"width": 0.0426136363636364,
+			"height": 0.0757575757575758
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5923176c1061d41394faf581",
+		"timelineId": null,
+		"startTimeMs": 290334,
+		"endTimeMs": 537918,
+		"durationMs": 247584,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58ab50f576b26e2998d4ab02",
+		"dataTypeName": "music",
+		"dataObject": {
+			"id": "592316561061d41394faf27e",
+			"dataTypeId": "58ab50f576b26e2998d4ab02",
+			"dataType": "multipleObjects",
+			"dataTypeName": "music",
+			"dataTypeDisplayName": "Music",
+			"name": "Year Zero",
+			"description": "",
+			"timelineText": "Year Zero ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/e33088ec-669d-4d86-bee3-8e5b10db492f.png",
+			"media": [
+				{
+					"id": "5923165b1061d41394faf2a0",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/ce2ecaf5-2383-40ae-926f-d9fb5b0edd0e.jpg",
+					"name": "oon Taxi.jpg",
+					"fileName": "oon Taxi.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": false,
+					"sizeInBytes": 23672,
+					"type": "image",
+					"alternateSizes": []
+				},
+				{
+					"id": "5a1c137c1454aa0ee4185c1c",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/e33088ec-669d-4d86-bee3-8e5b10db492f.png",
+					"name": "music note.png",
+					"fileName": "music note.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 2930,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Year Zero",
+				"artist": "Moon Taxi",
+				"releaseDate": "2015-07-28T04:00:00.0000000+00:00",
+				"genre": "Indie Rock",
+				"amazonLink":
+					"https://www.amazon.com/dp/B06XHLNQX6/ref=dm_ws_tlw_trk1",
+				"itunesLink":
+					"https://itunes.apple.com/us/album/year-zero/id1214444765?i=1214444904"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.260801287824207,
+			"y": 0.228165064102564,
+			"width": 0.0432276657060519,
+			"height": 0.0769230769230769
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "59231bd51061d41394fb08e6",
+		"timelineId": null,
+		"startTimeMs": 169751,
+		"endTimeMs": 211501,
+		"durationMs": 41750,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "59231b791061d41394fb0762",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "Gibson Guitar",
+			"description": "",
+			"timelineText": "Gibson Guitar ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/c32ed78f-3984-4a6b-a45f-6b8b5b5d2f24.jpg",
+			"media": [
+				{
+					"id": "59231b7f1061d41394fb07a9",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/c32ed78f-3984-4a6b-a45f-6b8b5b5d2f24.jpg",
+					"name":
+						"gibson-sg-les-paul-custom-3-pickup-electric-guitar-iverness-green-xl.jpg",
+					"fileName":
+						"gibson-sg-les-paul-custom-3-pickup-electric-guitar-iverness-green-xl.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 24205,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Gibson Guitar",
+				"castMember": "59230dd81061d41394fadf59",
+				"amazonLink":
+					"http://equipboard.com/items/gibson-sg-les-paul-custom-3-pickup-electric-guitar-iverness-green"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.32092803030303,
+			"y": 0.661710349462366,
+			"width": 0.0909090909090909,
+			"height": 0.161290322580645
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "59231caa1061d41394fb0c92",
+		"timelineId": null,
+		"startTimeMs": 15500,
+		"endTimeMs": 25000,
+		"durationMs": 9500,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "59231c901061d41394fb0b78",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "History of Austin",
+			"description": "",
+			"timelineText": "History of Austin ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/cc942975-dff2-4608-bb15-4e659b76ccb2.png",
+			"media": [
+				{
+					"id": "59231c961061d41394fb0b9e",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/cc942975-dff2-4608-bb15-4e659b76ccb2.png",
+					"name": "ahc_logo_new.png",
+					"fileName": "ahc_logo_new.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 132706,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "History of Austin",
+				"amazonLink":
+					"http://library.austintexas.gov/ahc/brief-history-austin",
+				"shoppingLink":
+					"http://library.austintexas.gov/ahc/brief-history-austin"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.255763767482518,
+			"y": 0.409526209677419,
+			"width": 0.0615384615384615,
+			"height": 0.0942928039702233
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "59231d8a1061d41394fb0ec2",
+		"timelineId": null,
+		"startTimeMs": 104440,
+		"endTimeMs": 107000,
+		"durationMs": 2560,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "59231d721061d41394fb0dc8",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "ACL Store",
+			"description": "",
+			"timelineText": "ACL Store ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/cb3df82e-3f05-4ea0-b65c-5bdcb610488b.png",
+			"media": [
+				{
+					"id": "59231d781061d41394fb0dee",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/cb3df82e-3f05-4ea0-b65c-5bdcb610488b.png",
+					"name": "ACL logo.png",
+					"fileName": "ACL logo.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 23428,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "ACL Store",
+				"amazonLink": "https://shop.acltv.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.128977272727273,
+			"y": 0.314516129032258,
+			"width": 0.245454545454545,
+			"height": 0.403225806451613
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "59231e621061d41394fb10dc",
+		"timelineId": null,
+		"startTimeMs": 119000,
+		"endTimeMs": 123000,
+		"durationMs": 4000,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "59231e531061d41394fb0fe6",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "Austin Bicycle",
+			"description": "",
+			"timelineText": "Austin Bicycle ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/810022fd-5e56-4873-a395-0292ebf3874b.png",
+			"media": [
+				{
+					"id": "59231e581061d41394fb100c",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/810022fd-5e56-4873-a395-0292ebf3874b.png",
+					"name": "Austin B Cycle.png",
+					"fileName": "Austin B Cycle.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 12272,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Austin Bicycle",
+				"amazonLink": "http://austinbcycle.com/",
+				"shoppingLink": "http://austinbcycle.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.192784256559767,
+			"y": 0.145442033678756,
+			"width": 0.0918367346938776,
+			"height": 0.160621761658031
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5923202f1061d41394fb1453",
+		"timelineId": null,
+		"startTimeMs": 183878,
+		"endTimeMs": 195000,
+		"durationMs": 11122,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "5923201f1061d41394fb134e",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "Yousician",
+			"description": "",
+			"timelineText": "Yousician ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/86bb3259-06f5-43f3-9bf0-4cba70ec51c9.png",
+			"media": [
+				{
+					"id": "592320231061d41394fb1375",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/86bb3259-06f5-43f3-9bf0-4cba70ec51c9.png",
+					"name": "yousician logo.png",
+					"fileName": "yousician logo.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 59486,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Yousician",
+				"amazonLink": "http://www.yousician.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.745691287878788,
+			"y": 0.790742607526882,
+			"width": 0.0909090909090909,
+			"height": 0.161290322580645
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5923b1031061d41394fb8942",
+		"timelineId": null,
+		"startTimeMs": 7417,
+		"endTimeMs": 211167,
+		"durationMs": 203750,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "5923b0151061d41394fb8221",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "Future People",
+			"description": "",
+			"timelineText": "Future People ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/0fb9a2ca-2c6d-4c13-a5b6-a875a222b018.jpg",
+			"media": [
+				{
+					"id": "5923b0251061d41394fb8269",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/0fb9a2ca-2c6d-4c13-a5b6-a875a222b018.jpg",
+					"name": "Future People.jpg",
+					"fileName": "Future People.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 39953,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Future People",
+				"castMember": "59230dd81061d41394fadf59",
+				"amazonLink":
+					"https://www.amazon.com/Future-People/dp/B00SYTTTBK/ref=sr_1_1?ie=UTF8&qid=1495471461&sr=8-1&keywords=future+people",
+				"shoppingLink":
+					"https://www.amazon.com/Future-People/dp/B00SYTTTBK/ref=sr_1_1?ie=UTF8&qid=1495471461&sr=8-1&keywords=future+people"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.744837194055944,
+			"y": 0.17350341191067,
+			"width": 0.0825174825174825,
+			"height": 0.0992555831265509
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5923b1261061d41394fb8a6a",
+		"timelineId": null,
+		"startTimeMs": 331300,
+		"endTimeMs": 537900,
+		"durationMs": 206600,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "5923b0671061d41394fb8546",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "Year Zero",
+			"description": "",
+			"timelineText": "Year Zero ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/fce1f659-d37c-4d9d-8bce-803ac292f76d.jpg",
+			"media": [
+				{
+					"id": "5923b08e1061d41394fb85cd",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/fce1f659-d37c-4d9d-8bce-803ac292f76d.jpg",
+					"name": "oon Taxi.jpg",
+					"fileName": "oon Taxi.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 23672,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Year Zero",
+				"castMember": "5923144b1061d41394faee4d",
+				"amazonLink":
+					"https://www.amazon.com/dp/B06XHLNQX6/ref=dm_ws_tlw_trk1"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.643059490084986,
+			"y": 0,
+			"width": 0.084985835694051,
+			"height": 0.150753768844221
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5924e1411061d41394fbb4bd",
+		"timelineId": null,
+		"startTimeMs": 605417,
+		"endTimeMs": 668542,
+		"durationMs": 63125,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "5923b0c51061d41394fb8783",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "Car Radio",
+			"description": "",
+			"timelineText": "Car Radio ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/6071c02c-5b53-479d-8563-38256ebbd2df.jpg",
+			"media": [
+				{
+					"id": "5923b0cd1061d41394fb87ab",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/6071c02c-5b53-479d-8563-38256ebbd2df.jpg",
+					"name": "Car Radio.jpg",
+					"fileName": "Car Radio.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 28168,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Car Radio",
+				"amazonLink":
+					"https://www.amazon.com/dp/B06XHLNQX6/ref=dm_ws_tlw_trk1",
+				"shoppingLink":
+					"https://www.amazon.com/dp/B06XHLNQX6/ref=dm_ws_tlw_trk1"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.645892351274788,
+			"y": 0,
+			"width": 0.084985835694051,
+			"height": 0.150753768844221
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5924e2db1061d41394fbb93e",
+		"timelineId": null,
+		"startTimeMs": 11800,
+		"endTimeMs": 16800,
+		"durationMs": 5000,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "5924e2ad1061d41394fbb7d7",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "C3 Presents",
+			"description": "",
+			"timelineText": "C3 Presents ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/5845b6f8-1780-4101-9cc8-1877e2bfe295.jpg",
+			"media": [
+				{
+					"id": "5924e2b31061d41394fbb800",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/5845b6f8-1780-4101-9cc8-1877e2bfe295.jpg",
+					"name": "C3 Presents Logo.jpg",
+					"fileName": "C3 Presents Logo.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 14039,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "C3 Presents",
+				"amazonLink": "https://www.c3presents.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.505237926136364,
+			"y": 0.4765625,
+			"width": 0.0568181818181818,
+			"height": 0.0833333333333333
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5924e41d1061d41394fbbbbd",
+		"timelineId": null,
+		"startTimeMs": 9300,
+		"endTimeMs": 11800,
+		"durationMs": 2500,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "5923192e1061d41394fafa47",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "AT&T",
+			"description": "",
+			"timelineText": "AT&T ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/c2fad086-1289-4294-ac4e-276afb9ed608.png",
+			"media": [
+				{
+					"id": "5923196a1061d41394fafab7",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/c2fad086-1289-4294-ac4e-276afb9ed608.png",
+					"name": "ATT logo.png",
+					"fileName": "ATT logo.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 20429,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "AT&T",
+				"shoppingLink":
+					"https://www.att.com/shop/bundles/save.html?JSAM_order=1-2-3-4-5&CI=CJ_AFFILIATE&RI=CJ1&RD=37922269&source=ECAuAT10600aff12A&CJPID=3211374",
+				"amazonLink":
+					"https://www.att.com/shop/bundles/save.html?JSAM_order=1-2-3-4-5&CI=CJ_AFFILIATE&RI=CJ1&RD=37922269&source=ECAuAT10600aff12A&CJPID=3211374"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.477272727272727,
+			"y": 0.325757575757576,
+			"width": 0.0426136363636364,
+			"height": 0.0757575757575758
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5924e52d1061d41394fbbe2c",
+		"timelineId": null,
+		"startTimeMs": 83387,
+		"endTimeMs": 92000,
+		"durationMs": 8613,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "59231c2e1061d41394fb0991",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "Austin Map",
+			"description": "",
+			"timelineText": "Austin Map ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/f666c7ed-b7cf-4d58-9c21-efaaf28017a5.png",
+			"media": [
+				{
+					"id": "59231c321061d41394fb09ba",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/f666c7ed-b7cf-4d58-9c21-efaaf28017a5.png",
+					"name": "Austin Map.png",
+					"fileName": "Austin Map.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 1076264,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Austin Map",
+				"amazonLink":
+					"https://www.google.com/maps/place/Austin,+TX/@30.3076859,-97.8938275,11z/data=!3m1!4b1!4m5!3m4!1s0x8644b599a0cc032f:0x5d9b464bd469d57a!8m2!3d30.267153!4d-97.7430608",
+				"shoppingLink":
+					"https://www.google.com/maps/place/Austin,+TX/@30.3076859,-97.8938275,11z/data=!3m1!4b1!4m5!3m4!1s0x8644b599a0cc032f:0x5d9b464bd469d57a!8m2!3d30.267153!4d-97.7430608"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.000421697443181818,
+			"y": 0.00232796717171717,
+			"width": 0.0909090909090909,
+			"height": 0.161616161616162
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5924e7dc1061d41394fbc298",
+		"timelineId": null,
+		"startTimeMs": 67271,
+		"endTimeMs": 72000,
+		"durationMs": 4729,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "5924e68f1061d41394fbbffe",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "Greyhound",
+			"description": "",
+			"timelineText": "Greyhound ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/d791e6fd-2788-48a5-849a-2be82a47592a.jpg",
+			"media": [
+				{
+					"id": "5924e6971061d41394fbc027",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/d791e6fd-2788-48a5-849a-2be82a47592a.jpg",
+					"name": "greyhound_logo16071.jpg",
+					"fileName": "greyhound_logo16071.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 22667,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Greyhound",
+				"shoppingLink": "http://locations.greyhound.com/",
+				"where": "",
+				"amazonLink": "http://locations.greyhound.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.527284021406728,
+			"y": 0.273352581521739,
+			"width": 0.305810397553517,
+			"height": 0.445652173913043
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "592753691061d41394fcf214",
+		"timelineId": null,
+		"startTimeMs": 180110,
+		"endTimeMs": 181110,
+		"durationMs": 1000,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "5923b0c51061d41394fb8783",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "Car Radio",
+			"description": "",
+			"timelineText": "Car Radio ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/6071c02c-5b53-479d-8563-38256ebbd2df.jpg",
+			"media": [
+				{
+					"id": "5923b0cd1061d41394fb87ab",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/6071c02c-5b53-479d-8563-38256ebbd2df.jpg",
+					"name": "Car Radio.jpg",
+					"fileName": "Car Radio.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 28168,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Car Radio",
+				"amazonLink":
+					"https://www.amazon.com/dp/B06XHLNQX6/ref=dm_ws_tlw_trk1",
+				"shoppingLink":
+					"https://www.amazon.com/dp/B06XHLNQX6/ref=dm_ws_tlw_trk1"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.298541366310786,
+			"y": 0.535207642684226,
+			"width": 0.4214463840399,
+			"height": 0.42350332594235
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5948308d75b26a262894f01c",
+		"timelineId": null,
+		"startTimeMs": 47100,
+		"endTimeMs": 52400,
+		"durationMs": 5300,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "5948307675b26a262894eee7",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "The Roads that Built America",
+			"description": "",
+			"timelineText": "The Roads that Built America ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/a6c07069-e42b-40f7-92d6-4d0c3ebb90db.png",
+			"media": [
+				{
+					"id": "5948307c75b26a262894ef2d",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/a6c07069-e42b-40f7-92d6-4d0c3ebb90db.png",
+					"name": "highway sign.png",
+					"fileName": "highway sign.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 50767,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "The Roads that Built America",
+				"amazonLink":
+					"https://www.amazon.com/Roads-That-Built-America-Incredible/dp/1402734689/ref=sr_1_8?ie=UTF8&qid=1497903368&sr=8-8&keywords=The+US+Highway+system",
+				"shoppingLink":
+					"https://www.amazon.com/Roads-That-Built-America-Incredible/dp/1402734689/ref=sr_1_8?ie=UTF8&qid=1497903368&sr=8-8&keywords=The+US+Highway+system"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.0727272727272727,
+			"y": 0,
+			"width": 0.0909090909090909,
+			"height": 0.161290322580645
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade882",
+		"timelineId": null,
+		"startTimeMs": 0,
+		"endTimeMs": 11542,
+		"durationMs": 11542,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade883",
+		"timelineId": null,
+		"startTimeMs": 11584,
+		"endTimeMs": 15250,
+		"durationMs": 3666,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade884",
+		"timelineId": null,
+		"startTimeMs": 15292,
+		"endTimeMs": 17918,
+		"durationMs": 2626,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade885",
+		"timelineId": null,
+		"startTimeMs": 17959,
+		"endTimeMs": 20042,
+		"durationMs": 2083,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade886",
+		"timelineId": null,
+		"startTimeMs": 20083,
+		"endTimeMs": 21792,
+		"durationMs": 1709,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade887",
+		"timelineId": null,
+		"startTimeMs": 21834,
+		"endTimeMs": 23792,
+		"durationMs": 1958,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade888",
+		"timelineId": null,
+		"startTimeMs": 23834,
+		"endTimeMs": 25167,
+		"durationMs": 1333,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade889",
+		"timelineId": null,
+		"startTimeMs": 25209,
+		"endTimeMs": 27417,
+		"durationMs": 2208,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade88a",
+		"timelineId": null,
+		"startTimeMs": 27459,
+		"endTimeMs": 28792,
+		"durationMs": 1333,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade88b",
+		"timelineId": null,
+		"startTimeMs": 28834,
+		"endTimeMs": 31501,
+		"durationMs": 2667,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade88c",
+		"timelineId": null,
+		"startTimeMs": 31542,
+		"endTimeMs": 33042,
+		"durationMs": 1500,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade88d",
+		"timelineId": null,
+		"startTimeMs": 33083,
+		"endTimeMs": 34751,
+		"durationMs": 1668,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade88e",
+		"timelineId": null,
+		"startTimeMs": 34792,
+		"endTimeMs": 36876,
+		"durationMs": 2084,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade88f",
+		"timelineId": null,
+		"startTimeMs": 36918,
+		"endTimeMs": 39459,
+		"durationMs": 2541,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade890",
+		"timelineId": null,
+		"startTimeMs": 39501,
+		"endTimeMs": 47000,
+		"durationMs": 7499,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.470170454545455,
+			"y": 0.840909090909091,
+			"width": 0.0426136363636364,
+			"height": 0.0757575757575758
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade891",
+		"timelineId": null,
+		"startTimeMs": 47042,
+		"endTimeMs": 52292,
+		"durationMs": 5250,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade892",
+		"timelineId": null,
+		"startTimeMs": 52334,
+		"endTimeMs": 57292,
+		"durationMs": 4958,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade893",
+		"timelineId": null,
+		"startTimeMs": 57334,
+		"endTimeMs": 58792,
+		"durationMs": 1458,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade894",
+		"timelineId": null,
+		"startTimeMs": 58834,
+		"endTimeMs": 62876,
+		"durationMs": 4042,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade895",
+		"timelineId": null,
+		"startTimeMs": 62918,
+		"endTimeMs": 64459,
+		"durationMs": 1541,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade896",
+		"timelineId": null,
+		"startTimeMs": 64501,
+		"endTimeMs": 66751,
+		"durationMs": 2250,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade897",
+		"timelineId": null,
+		"startTimeMs": 66792,
+		"endTimeMs": 69167,
+		"durationMs": 2375,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade898",
+		"timelineId": null,
+		"startTimeMs": 69209,
+		"endTimeMs": 72667,
+		"durationMs": 3458,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade899",
+		"timelineId": null,
+		"startTimeMs": 72709,
+		"endTimeMs": 74918,
+		"durationMs": 2209,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade89a",
+		"timelineId": null,
+		"startTimeMs": 74959,
+		"endTimeMs": 76876,
+		"durationMs": 1917,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade89b",
+		"timelineId": null,
+		"startTimeMs": 77018,
+		"endTimeMs": 79809,
+		"durationMs": 2791,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade89c",
+		"timelineId": null,
+		"startTimeMs": 79751,
+		"endTimeMs": 82709,
+		"durationMs": 2958,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade89d",
+		"timelineId": null,
+		"startTimeMs": 82751,
+		"endTimeMs": 86459,
+		"durationMs": 3708,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade89e",
+		"timelineId": null,
+		"startTimeMs": 86459,
+		"endTimeMs": 91209,
+		"durationMs": 4750,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade89f",
+		"timelineId": null,
+		"startTimeMs": 91209,
+		"endTimeMs": 93501,
+		"durationMs": 2292,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8a0",
+		"timelineId": null,
+		"startTimeMs": 93501,
+		"endTimeMs": 95042,
+		"durationMs": 1541,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8a1",
+		"timelineId": null,
+		"startTimeMs": 95042,
+		"endTimeMs": 96709,
+		"durationMs": 1667,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8a2",
+		"timelineId": null,
+		"startTimeMs": 96709,
+		"endTimeMs": 99709,
+		"durationMs": 3000,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8a3",
+		"timelineId": null,
+		"startTimeMs": 99709,
+		"endTimeMs": 101209,
+		"durationMs": 1500,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8a4",
+		"timelineId": null,
+		"startTimeMs": 101209,
+		"endTimeMs": 102918,
+		"durationMs": 1709,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8a5",
+		"timelineId": null,
+		"startTimeMs": 102959,
+		"endTimeMs": 105000,
+		"durationMs": 2041,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8a6",
+		"timelineId": null,
+		"startTimeMs": 105042,
+		"endTimeMs": 106876,
+		"durationMs": 1834,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8a7",
+		"timelineId": null,
+		"startTimeMs": 106918,
+		"endTimeMs": 109292,
+		"durationMs": 2374,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8a8",
+		"timelineId": null,
+		"startTimeMs": 109334,
+		"endTimeMs": 111584,
+		"durationMs": 2250,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8a9",
+		"timelineId": null,
+		"startTimeMs": 111626,
+		"endTimeMs": 113250,
+		"durationMs": 1624,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8aa",
+		"timelineId": null,
+		"startTimeMs": 113292,
+		"endTimeMs": 115542,
+		"durationMs": 2250,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ab",
+		"timelineId": null,
+		"startTimeMs": 115584,
+		"endTimeMs": 119792,
+		"durationMs": 4208,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ac",
+		"timelineId": null,
+		"startTimeMs": 119834,
+		"endTimeMs": 121709,
+		"durationMs": 1875,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ad",
+		"timelineId": null,
+		"startTimeMs": 121751,
+		"endTimeMs": 122876,
+		"durationMs": 1125,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ae",
+		"timelineId": null,
+		"startTimeMs": 122918,
+		"endTimeMs": 124834,
+		"durationMs": 1916,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8af",
+		"timelineId": null,
+		"startTimeMs": 124876,
+		"endTimeMs": 127959,
+		"durationMs": 3083,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8b0",
+		"timelineId": null,
+		"startTimeMs": 127959,
+		"endTimeMs": 132375,
+		"durationMs": 4416,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8b1",
+		"timelineId": null,
+		"startTimeMs": 132375,
+		"endTimeMs": 134334,
+		"durationMs": 1959,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8b2",
+		"timelineId": null,
+		"startTimeMs": 134334,
+		"endTimeMs": 138417,
+		"durationMs": 4083,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8b3",
+		"timelineId": null,
+		"startTimeMs": 138417,
+		"endTimeMs": 140709,
+		"durationMs": 2292,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8b4",
+		"timelineId": null,
+		"startTimeMs": 140709,
+		"endTimeMs": 143459,
+		"durationMs": 2750,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8b5",
+		"timelineId": null,
+		"startTimeMs": 143459,
+		"endTimeMs": 144918,
+		"durationMs": 1459,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8b6",
+		"timelineId": null,
+		"startTimeMs": 144918,
+		"endTimeMs": 147167,
+		"durationMs": 2249,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8b7",
+		"timelineId": null,
+		"startTimeMs": 147167,
+		"endTimeMs": 153542,
+		"durationMs": 6375,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8b8",
+		"timelineId": null,
+		"startTimeMs": 153542,
+		"endTimeMs": 156709,
+		"durationMs": 3167,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8b9",
+		"timelineId": null,
+		"startTimeMs": 156709,
+		"endTimeMs": 159918,
+		"durationMs": 3209,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ba",
+		"timelineId": null,
+		"startTimeMs": 159918,
+		"endTimeMs": 164501,
+		"durationMs": 4583,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8bb",
+		"timelineId": null,
+		"startTimeMs": 164542,
+		"endTimeMs": 168209,
+		"durationMs": 3667,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8bc",
+		"timelineId": null,
+		"startTimeMs": 168209,
+		"endTimeMs": 169459,
+		"durationMs": 1250,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8bd",
+		"timelineId": null,
+		"startTimeMs": 169459,
+		"endTimeMs": 172375,
+		"durationMs": 2916,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8be",
+		"timelineId": null,
+		"startTimeMs": 172375,
+		"endTimeMs": 177751,
+		"durationMs": 5376,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8bf",
+		"timelineId": null,
+		"startTimeMs": 177751,
+		"endTimeMs": 183000,
+		"durationMs": 5249,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8c0",
+		"timelineId": null,
+		"startTimeMs": 183042,
+		"endTimeMs": 186167,
+		"durationMs": 3125,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8c1",
+		"timelineId": null,
+		"startTimeMs": 186209,
+		"endTimeMs": 190501,
+		"durationMs": 4292,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8c2",
+		"timelineId": null,
+		"startTimeMs": 190542,
+		"endTimeMs": 194584,
+		"durationMs": 4042,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8c3",
+		"timelineId": null,
+		"startTimeMs": 194626,
+		"endTimeMs": 199292,
+		"durationMs": 4666,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8c4",
+		"timelineId": null,
+		"startTimeMs": 199334,
+		"endTimeMs": 202918,
+		"durationMs": 3584,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8c5",
+		"timelineId": null,
+		"startTimeMs": 202959,
+		"endTimeMs": 211209,
+		"durationMs": 8250,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8c6",
+		"timelineId": null,
+		"startTimeMs": 211209,
+		"endTimeMs": 212542,
+		"durationMs": 1333,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8c7",
+		"timelineId": null,
+		"startTimeMs": 212542,
+		"endTimeMs": 214042,
+		"durationMs": 1500,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8c8",
+		"timelineId": null,
+		"startTimeMs": 214042,
+		"endTimeMs": 215042,
+		"durationMs": 1000,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8c9",
+		"timelineId": null,
+		"startTimeMs": 215042,
+		"endTimeMs": 216626,
+		"durationMs": 1584,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ca",
+		"timelineId": null,
+		"startTimeMs": 216626,
+		"endTimeMs": 220000,
+		"durationMs": 3374,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8cb",
+		"timelineId": null,
+		"startTimeMs": 220000,
+		"endTimeMs": 224000,
+		"durationMs": 4000,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8cc",
+		"timelineId": null,
+		"startTimeMs": 224042,
+		"endTimeMs": 228959,
+		"durationMs": 4917,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8cd",
+		"timelineId": null,
+		"startTimeMs": 229000,
+		"endTimeMs": 233417,
+		"durationMs": 4417,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ce",
+		"timelineId": null,
+		"startTimeMs": 233459,
+		"endTimeMs": 244042,
+		"durationMs": 10583,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8cf",
+		"timelineId": null,
+		"startTimeMs": 244083,
+		"endTimeMs": 246584,
+		"durationMs": 2501,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8d0",
+		"timelineId": null,
+		"startTimeMs": 246626,
+		"endTimeMs": 250083,
+		"durationMs": 3457,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8d1",
+		"timelineId": null,
+		"startTimeMs": 250083,
+		"endTimeMs": 256876,
+		"durationMs": 6793,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8d2",
+		"timelineId": null,
+		"startTimeMs": 256876,
+		"endTimeMs": 259292,
+		"durationMs": 2416,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8d3",
+		"timelineId": null,
+		"startTimeMs": 259292,
+		"endTimeMs": 261042,
+		"durationMs": 1750,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8d4",
+		"timelineId": null,
+		"startTimeMs": 261042,
+		"endTimeMs": 271083,
+		"durationMs": 10041,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8d5",
+		"timelineId": null,
+		"startTimeMs": 271083,
+		"endTimeMs": 281000,
+		"durationMs": 9917,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8d6",
+		"timelineId": null,
+		"startTimeMs": 281000,
+		"endTimeMs": 282584,
+		"durationMs": 1584,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8d7",
+		"timelineId": null,
+		"startTimeMs": 282626,
+		"endTimeMs": 283417,
+		"durationMs": 791,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8d8",
+		"timelineId": null,
+		"startTimeMs": 283459,
+		"endTimeMs": 284918,
+		"durationMs": 1459,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8d9",
+		"timelineId": null,
+		"startTimeMs": 284959,
+		"endTimeMs": 289334,
+		"durationMs": 4375,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8da",
+		"timelineId": null,
+		"startTimeMs": 289375,
+		"endTimeMs": 291667,
+		"durationMs": 2292,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8db",
+		"timelineId": null,
+		"startTimeMs": 291709,
+		"endTimeMs": 296834,
+		"durationMs": 5125,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8dc",
+		"timelineId": null,
+		"startTimeMs": 296834,
+		"endTimeMs": 300876,
+		"durationMs": 4042,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8dd",
+		"timelineId": null,
+		"startTimeMs": 300918,
+		"endTimeMs": 304292,
+		"durationMs": 3374,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8de",
+		"timelineId": null,
+		"startTimeMs": 304334,
+		"endTimeMs": 308626,
+		"durationMs": 4292,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8df",
+		"timelineId": null,
+		"startTimeMs": 308667,
+		"endTimeMs": 315584,
+		"durationMs": 6917,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8e0",
+		"timelineId": null,
+		"startTimeMs": 315626,
+		"endTimeMs": 320584,
+		"durationMs": 4958,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8e1",
+		"timelineId": null,
+		"startTimeMs": 320626,
+		"endTimeMs": 321876,
+		"durationMs": 1250,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8e2",
+		"timelineId": null,
+		"startTimeMs": 321918,
+		"endTimeMs": 326918,
+		"durationMs": 5000,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8e3",
+		"timelineId": null,
+		"startTimeMs": 326959,
+		"endTimeMs": 331334,
+		"durationMs": 4375,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8e4",
+		"timelineId": null,
+		"startTimeMs": 331375,
+		"endTimeMs": 343709,
+		"durationMs": 12334,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8e5",
+		"timelineId": null,
+		"startTimeMs": 343751,
+		"endTimeMs": 345918,
+		"durationMs": 2167,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8e6",
+		"timelineId": null,
+		"startTimeMs": 345959,
+		"endTimeMs": 350000,
+		"durationMs": 4041,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8e7",
+		"timelineId": null,
+		"startTimeMs": 350042,
+		"endTimeMs": 353334,
+		"durationMs": 3292,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8e8",
+		"timelineId": null,
+		"startTimeMs": 353375,
+		"endTimeMs": 356459,
+		"durationMs": 3084,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8e9",
+		"timelineId": null,
+		"startTimeMs": 356501,
+		"endTimeMs": 359125,
+		"durationMs": 2624,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ea",
+		"timelineId": null,
+		"startTimeMs": 359167,
+		"endTimeMs": 361959,
+		"durationMs": 2792,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8eb",
+		"timelineId": null,
+		"startTimeMs": 362000,
+		"endTimeMs": 364709,
+		"durationMs": 2709,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ec",
+		"timelineId": null,
+		"startTimeMs": 364751,
+		"endTimeMs": 366918,
+		"durationMs": 2167,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ed",
+		"timelineId": null,
+		"startTimeMs": 366959,
+		"endTimeMs": 370125,
+		"durationMs": 3166,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ee",
+		"timelineId": null,
+		"startTimeMs": 370167,
+		"endTimeMs": 376083,
+		"durationMs": 5916,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8ef",
+		"timelineId": null,
+		"startTimeMs": 376083,
+		"endTimeMs": 379876,
+		"durationMs": 3793,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8f0",
+		"timelineId": null,
+		"startTimeMs": 379876,
+		"endTimeMs": 386375,
+		"durationMs": 6499,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "599ee980c53dc010b8ade8f1",
+		"timelineId": null,
+		"startTimeMs": 386375,
+		"endTimeMs": 387584,
+		"durationMs": 1209,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "5964ee31a0041c0facdcad74",
+		"dataTypeName": "span",
+		"dataObject": {
+			"id": "599ee97fc53dc010b8ade863",
+			"dataTypeId": "5964ee31a0041c0facdcad74",
+			"dataType": "multipleObjects",
+			"dataTypeName": "span",
+			"dataTypeDisplayName": "Spans",
+			"name": "Events",
+			"description": "",
+			"timelineText": "Events ",
+			"mainImageUrl": null,
+			"media": [],
+			"data": { "name": "Events" },
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "59c53fafceed5a11547753ca",
+		"timelineId": null,
+		"startTimeMs": 39501,
+		"endTimeMs": 47000,
+		"durationMs": 7499,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a3f",
+		"dataTypeName": "product",
+		"dataObject": {
+			"id": "59231ab11061d41394fafc5a",
+			"dataTypeId": "58a752f45343ea02ecfa2a3f",
+			"dataType": "multipleObjects",
+			"dataTypeName": "product",
+			"dataTypeDisplayName": "Products",
+			"name": "The Road to ACL",
+			"description": "",
+			"timelineText": "The Road to ACL ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/0849fd9e-1fe9-4fc6-8ea2-2042df66e218.jpg",
+			"media": [
+				{
+					"id": "59231af21061d41394fafd5c",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/0849fd9e-1fe9-4fc6-8ea2-2042df66e218.jpg",
+					"name": "Road to ACL Poster square.jpg",
+					"fileName": "Road to ACL Poster square.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 15360,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "The Road to ACL",
+				"amazonLink":
+					"http://www.imdb.com/title/tt4943802/?ref_=nv_sr_1",
+				"shoppingLink":
+					"http://www.imdb.com/title/tt4943802/?ref_=nv_sr_1"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.00284090909090909,
+			"y": 0.843434343434343,
+			"width": 0.0426136363636364,
+			"height": 0.0757575757575758
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "59ea0090923e14113cbcf441",
+		"timelineId": null,
+		"startTimeMs": 0,
+		"endTimeMs": 210400,
+		"durationMs": 210400,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58ab50f576b26e2998d4ab02",
+		"dataTypeName": "music",
+		"dataObject": {
+			"id": "592315c01061d41394faf162",
+			"dataTypeId": "58ab50f576b26e2998d4ab02",
+			"dataType": "multipleObjects",
+			"dataTypeName": "music",
+			"dataTypeDisplayName": "Music",
+			"name": "Future People",
+			"description": "",
+			"timelineText": "Future People ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/22ff7325-f903-4b22-8229-e74c3395dedc.png",
+			"media": [
+				{
+					"id": "592315c61061d41394faf18d",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/58e75e28-3aec-488b-9dff-e5d24d23ab7b.jpg",
+					"name": "Future People.jpg",
+					"fileName": "Future People.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": false,
+					"sizeInBytes": 39953,
+					"type": "image",
+					"alternateSizes": []
+				},
+				{
+					"id": "5a1af04c1454aa0ee412a289",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/22ff7325-f903-4b22-8229-e74c3395dedc.png",
+					"name": "music note.png",
+					"fileName": "music note.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 2930,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Future People",
+				"artist": "Alabama Shakes",
+				"releaseDate": "2015-08-10T04:00:00.0000000+00:00",
+				"genre": "Blues",
+				"amazonLink":
+					"https://www.amazon.com/Future-People/dp/B00SYTTTBK/ref=sr_1_1?ie=UTF8&qid=1495471461&sr=8-1&keywords=future+people",
+				"itunesLink":
+					"https://itunes.apple.com/us/music-video/future-people-live/id1041193499"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.346090190774487,
+			"y": 0.60056616902834,
+			"width": 0.0341685649202733,
+			"height": 0.0809716599190283
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f47d1454950ee4b875cf",
+		"timelineId": null,
+		"startTimeMs": 64501,
+		"endTimeMs": 66751,
+		"durationMs": 2250,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "5923144b1061d41394faee4d",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Moon Taxi",
+			"description": "Self",
+			"timelineText": "Moon Taxi ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+			"media": [
+				{
+					"id": "592314671061d41394faee83",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+					"name": "Moon Taxi.jpeg",
+					"fileName": "Moon Taxi.jpeg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 24947,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Moon",
+				"lastName": "Taxi",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/ridethemoontaxi/",
+				"twitterUsername": "@moontaxi",
+				"bio":
+					"Moon Taxi is an American indie-progressive rock band based in Nashville, Tennessee. The band was founded in 2006 by Trevor Terndrup, Tommy Putnam, Spencer Thomson, Tyler Ritter, and Wes Bailey while attending Belmont University.",
+				"web": "http://ridethemoontaxi.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.641210374639769,
+			"y": 0.612780448717949,
+			"width": 0.0432276657060519,
+			"height": 0.0769230769230769
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f47e1454950ee4b87968",
+		"timelineId": null,
+		"startTimeMs": 64501,
+		"endTimeMs": 66751,
+		"durationMs": 2250,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "592311181061d41394fae6c4",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Run the Jewels",
+			"description": "Self",
+			"timelineText": "Run the Jewels ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+			"media": [
+				{
+					"id": "592311601061d41394fae772",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+					"name": "run-the-jewels logo.jpg",
+					"fileName": "run-the-jewels logo.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 232763,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Run the Jewels",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/therealrunthejewels/",
+				"twitterUsername": "#runthejewels",
+				"bio":
+					"Run the Jewels, also known by the initialism RTJ, is an American hip hop[1][2] supergroup formed in 2013 by rapper/producer El-P and rapper Killer Mike.[3] They released their acclaimed debut studio album, Run the Jewels, as a free digital download in 2013.",
+				"web": "https://runthejewels.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.211804304755043,
+			"y": 0.238431490384615,
+			"width": 0.0432276657060519,
+			"height": 0.0769230769230769
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f47e1454950ee4b87a6f",
+		"timelineId": null,
+		"startTimeMs": 66792,
+		"endTimeMs": 69167,
+		"durationMs": 2375,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "5923144b1061d41394faee4d",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Moon Taxi",
+			"description": "Self",
+			"timelineText": "Moon Taxi ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+			"media": [
+				{
+					"id": "592314671061d41394faee83",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+					"name": "Moon Taxi.jpeg",
+					"fileName": "Moon Taxi.jpeg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 24947,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Moon",
+				"lastName": "Taxi",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/ridethemoontaxi/",
+				"twitterUsername": "@moontaxi",
+				"bio":
+					"Moon Taxi is an American indie-progressive rock band based in Nashville, Tennessee. The band was founded in 2006 by Trevor Terndrup, Tommy Putnam, Spencer Thomson, Tyler Ritter, and Wes Bailey while attending Belmont University.",
+				"web": "http://ridethemoontaxi.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.681539310158501,
+			"y": 0.387169471153846,
+			"width": 0.0432276657060519,
+			"height": 0.0769230769230769
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f47f1454950ee4b88094",
+		"timelineId": null,
+		"startTimeMs": 66792,
+		"endTimeMs": 69167,
+		"durationMs": 2375,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "592311181061d41394fae6c4",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Run the Jewels",
+			"description": "Self",
+			"timelineText": "Run the Jewels ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+			"media": [
+				{
+					"id": "592311601061d41394fae772",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+					"name": "run-the-jewels logo.jpg",
+					"fileName": "run-the-jewels logo.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 232763,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Run the Jewels",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/therealrunthejewels/",
+				"twitterUsername": "#runthejewels",
+				"bio":
+					"Run the Jewels, also known by the initialism RTJ, is an American hip hop[1][2] supergroup formed in 2013 by rapper/producer El-P and rapper Killer Mike.[3] They released their acclaimed debut studio album, Run the Jewels, as a free digital download in 2013.",
+				"web": "https://runthejewels.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.244956772334294,
+			"y": 0.284605368589744,
+			"width": 0.0432276657060519,
+			"height": 0.0769230769230769
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f47f1454950ee4b8819b",
+		"timelineId": null,
+		"startTimeMs": 69209,
+		"endTimeMs": 72667,
+		"durationMs": 3458,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "5923144b1061d41394faee4d",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Moon Taxi",
+			"description": "Self",
+			"timelineText": "Moon Taxi ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+			"media": [
+				{
+					"id": "592314671061d41394faee83",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+					"name": "Moon Taxi.jpeg",
+					"fileName": "Moon Taxi.jpeg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 24947,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Moon",
+				"lastName": "Taxi",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/ridethemoontaxi/",
+				"twitterUsername": "@moontaxi",
+				"bio":
+					"Moon Taxi is an American indie-progressive rock band based in Nashville, Tennessee. The band was founded in 2006 by Trevor Terndrup, Tommy Putnam, Spencer Thomson, Tyler Ritter, and Wes Bailey while attending Belmont University.",
+				"web": "http://ridethemoontaxi.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.806916426512968,
+			"y": 0.623046875,
+			"width": 0.0432276657060519,
+			"height": 0.0769230769230769
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4801454950ee4b8844e",
+		"timelineId": null,
+		"startTimeMs": 64501,
+		"endTimeMs": 66751,
+		"durationMs": 2250,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58ab50f576b26e2998d4ab02",
+		"dataTypeName": "music",
+		"dataObject": {
+			"id": "592316e81061d41394faf371",
+			"dataTypeId": "58ab50f576b26e2998d4ab02",
+			"dataType": "multipleObjects",
+			"dataTypeName": "music",
+			"dataTypeDisplayName": "Music",
+			"name": "Car Radio",
+			"description": "",
+			"timelineText": "Car Radio ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+			"media": [
+				{
+					"id": "592316ed1061d41394faf39e",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/769d5e46-bb39-4517-b48b-d4d7e0982dba.jpg",
+					"name": "Car Radio.jpg",
+					"fileName": "Car Radio.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": false,
+					"sizeInBytes": 28168,
+					"type": "image",
+					"alternateSizes": []
+				},
+				{
+					"id": "5a1c936d1454aa0ee41c8f30",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+					"name": "music note.png",
+					"fileName": "music note.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 2930,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Car Radio",
+				"artist": "Twenty One Pilots",
+				"releaseDate": "2011-07-08T04:00:00.0000000+00:00",
+				"genre": "Rock",
+				"amazonLink":
+					"https://www.amazon.com/Car-Radio/dp/B00AN93RW6/ref=sr_1_1?ie=UTF8&qid=1495471824&sr=8-1&keywords=Car+radio+by+Twenty+One+Pilots",
+				"itunesLink":
+					"https://itunes.apple.com/us/album/car-radio/id585128397?i=585128671"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4801454950ee4b888c5",
+		"timelineId": null,
+		"startTimeMs": 69209,
+		"endTimeMs": 72667,
+		"durationMs": 3458,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "592311181061d41394fae6c4",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Run the Jewels",
+			"description": "Self",
+			"timelineText": "Run the Jewels ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+			"media": [
+				{
+					"id": "592311601061d41394fae772",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+					"name": "run-the-jewels logo.jpg",
+					"fileName": "run-the-jewels logo.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 232763,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Run the Jewels",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/therealrunthejewels/",
+				"twitterUsername": "#runthejewels",
+				"bio":
+					"Run the Jewels, also known by the initialism RTJ, is an American hip hop[1][2] supergroup formed in 2013 by rapper/producer El-P and rapper Killer Mike.[3] They released their acclaimed debut studio album, Run the Jewels, as a free digital download in 2013.",
+				"web": "https://runthejewels.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.367435158501441,
+			"y": 0.58203125,
+			"width": 0.0432276657060519,
+			"height": 0.0769230769230769
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4801454950ee4b889cc",
+		"timelineId": null,
+		"startTimeMs": 72709,
+		"endTimeMs": 74918,
+		"durationMs": 2209,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "5923144b1061d41394faee4d",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Moon Taxi",
+			"description": "Self",
+			"timelineText": "Moon Taxi ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+			"media": [
+				{
+					"id": "592314671061d41394faee83",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+					"name": "Moon Taxi.jpeg",
+					"fileName": "Moon Taxi.jpeg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 24947,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Moon",
+				"lastName": "Taxi",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/ridethemoontaxi/",
+				"twitterUsername": "@moontaxi",
+				"bio":
+					"Moon Taxi is an American indie-progressive rock band based in Nashville, Tennessee. The band was founded in 2006 by Trevor Terndrup, Tommy Putnam, Spencer Thomson, Tyler Ritter, and Wes Bailey while attending Belmont University.",
+				"web": "http://ridethemoontaxi.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.828530259365994,
+			"y": 0.58203125,
+			"width": 0.0432276657060519,
+			"height": 0.0769230769230769
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4801454950ee4b88def",
+		"timelineId": null,
+		"startTimeMs": 66792,
+		"endTimeMs": 69167,
+		"durationMs": 2375,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58ab50f576b26e2998d4ab02",
+		"dataTypeName": "music",
+		"dataObject": {
+			"id": "592316e81061d41394faf371",
+			"dataTypeId": "58ab50f576b26e2998d4ab02",
+			"dataType": "multipleObjects",
+			"dataTypeName": "music",
+			"dataTypeDisplayName": "Music",
+			"name": "Car Radio",
+			"description": "",
+			"timelineText": "Car Radio ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+			"media": [
+				{
+					"id": "592316ed1061d41394faf39e",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/769d5e46-bb39-4517-b48b-d4d7e0982dba.jpg",
+					"name": "Car Radio.jpg",
+					"fileName": "Car Radio.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": false,
+					"sizeInBytes": 28168,
+					"type": "image",
+					"alternateSizes": []
+				},
+				{
+					"id": "5a1c936d1454aa0ee41c8f30",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+					"name": "music note.png",
+					"fileName": "music note.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 2930,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Car Radio",
+				"artist": "Twenty One Pilots",
+				"releaseDate": "2011-07-08T04:00:00.0000000+00:00",
+				"genre": "Rock",
+				"amazonLink":
+					"https://www.amazon.com/Car-Radio/dp/B00AN93RW6/ref=sr_1_1?ie=UTF8&qid=1495471824&sr=8-1&keywords=Car+radio+by+Twenty+One+Pilots",
+				"itunesLink":
+					"https://itunes.apple.com/us/album/car-radio/id585128397?i=585128671"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.670357880125285,
+			"y": 0.165422570850202,
+			"width": 0.0808656036446469,
+			"height": 0.123481781376518
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4801454950ee4b89275",
+		"timelineId": null,
+		"startTimeMs": 72709,
+		"endTimeMs": 74918,
+		"durationMs": 2209,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "592311181061d41394fae6c4",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Run the Jewels",
+			"description": "Self",
+			"timelineText": "Run the Jewels ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+			"media": [
+				{
+					"id": "592311601061d41394fae772",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+					"name": "run-the-jewels logo.jpg",
+					"fileName": "run-the-jewels logo.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 232763,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Run the Jewels",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/therealrunthejewels/",
+				"twitterUsername": "#runthejewels",
+				"bio":
+					"Run the Jewels, also known by the initialism RTJ, is an American hip hop[1][2] supergroup formed in 2013 by rapper/producer El-P and rapper Killer Mike.[3] They released their acclaimed debut studio album, Run the Jewels, as a free digital download in 2013.",
+				"web": "https://runthejewels.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": {
+			"x": 0.282415120677233,
+			"y": 0.623046875,
+			"width": 0.0432276657060519,
+			"height": 0.0769230769230769
+		},
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4811454950ee4b8937c",
+		"timelineId": null,
+		"startTimeMs": 74959,
+		"endTimeMs": 76876,
+		"durationMs": 1917,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "5923144b1061d41394faee4d",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Moon Taxi",
+			"description": "Self",
+			"timelineText": "Moon Taxi ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+			"media": [
+				{
+					"id": "592314671061d41394faee83",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+					"name": "Moon Taxi.jpeg",
+					"fileName": "Moon Taxi.jpeg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 24947,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Moon",
+				"lastName": "Taxi",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/ridethemoontaxi/",
+				"twitterUsername": "@moontaxi",
+				"bio":
+					"Moon Taxi is an American indie-progressive rock band based in Nashville, Tennessee. The band was founded in 2006 by Trevor Terndrup, Tommy Putnam, Spencer Thomson, Tyler Ritter, and Wes Bailey while attending Belmont University.",
+				"web": "http://ridethemoontaxi.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4811454950ee4b896ad",
+		"timelineId": null,
+		"startTimeMs": 69209,
+		"endTimeMs": 72667,
+		"durationMs": 3458,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58ab50f576b26e2998d4ab02",
+		"dataTypeName": "music",
+		"dataObject": {
+			"id": "592316e81061d41394faf371",
+			"dataTypeId": "58ab50f576b26e2998d4ab02",
+			"dataType": "multipleObjects",
+			"dataTypeName": "music",
+			"dataTypeDisplayName": "Music",
+			"name": "Car Radio",
+			"description": "",
+			"timelineText": "Car Radio ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+			"media": [
+				{
+					"id": "592316ed1061d41394faf39e",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/769d5e46-bb39-4517-b48b-d4d7e0982dba.jpg",
+					"name": "Car Radio.jpg",
+					"fileName": "Car Radio.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": false,
+					"sizeInBytes": 28168,
+					"type": "image",
+					"alternateSizes": []
+				},
+				{
+					"id": "5a1c936d1454aa0ee41c8f30",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+					"name": "music note.png",
+					"fileName": "music note.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 2930,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Car Radio",
+				"artist": "Twenty One Pilots",
+				"releaseDate": "2011-07-08T04:00:00.0000000+00:00",
+				"genre": "Rock",
+				"amazonLink":
+					"https://www.amazon.com/Car-Radio/dp/B00AN93RW6/ref=sr_1_1?ie=UTF8&qid=1495471824&sr=8-1&keywords=Car+radio+by+Twenty+One+Pilots",
+				"itunesLink":
+					"https://itunes.apple.com/us/album/car-radio/id585128397?i=585128671"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4811454950ee4b89c40",
+		"timelineId": null,
+		"startTimeMs": 74959,
+		"endTimeMs": 76876,
+		"durationMs": 1917,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "592311181061d41394fae6c4",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Run the Jewels",
+			"description": "Self",
+			"timelineText": "Run the Jewels ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+			"media": [
+				{
+					"id": "592311601061d41394fae772",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+					"name": "run-the-jewels logo.jpg",
+					"fileName": "run-the-jewels logo.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 232763,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Run the Jewels",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/therealrunthejewels/",
+				"twitterUsername": "#runthejewels",
+				"bio":
+					"Run the Jewels, also known by the initialism RTJ, is an American hip hop[1][2] supergroup formed in 2013 by rapper/producer El-P and rapper Killer Mike.[3] They released their acclaimed debut studio album, Run the Jewels, as a free digital download in 2013.",
+				"web": "https://runthejewels.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4811454950ee4b89d47",
+		"timelineId": null,
+		"startTimeMs": 77018,
+		"endTimeMs": 82709,
+		"durationMs": 5691,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "5923144b1061d41394faee4d",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Moon Taxi",
+			"description": "Self",
+			"timelineText": "Moon Taxi ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+			"media": [
+				{
+					"id": "592314671061d41394faee83",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+					"name": "Moon Taxi.jpeg",
+					"fileName": "Moon Taxi.jpeg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 24947,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Moon",
+				"lastName": "Taxi",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/ridethemoontaxi/",
+				"twitterUsername": "@moontaxi",
+				"bio":
+					"Moon Taxi is an American indie-progressive rock band based in Nashville, Tennessee. The band was founded in 2006 by Trevor Terndrup, Tommy Putnam, Spencer Thomson, Tyler Ritter, and Wes Bailey while attending Belmont University.",
+				"web": "http://ridethemoontaxi.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4821454950ee4b8a093",
+		"timelineId": null,
+		"startTimeMs": 72709,
+		"endTimeMs": 74918,
+		"durationMs": 2209,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58ab50f576b26e2998d4ab02",
+		"dataTypeName": "music",
+		"dataObject": {
+			"id": "592316e81061d41394faf371",
+			"dataTypeId": "58ab50f576b26e2998d4ab02",
+			"dataType": "multipleObjects",
+			"dataTypeName": "music",
+			"dataTypeDisplayName": "Music",
+			"name": "Car Radio",
+			"description": "",
+			"timelineText": "Car Radio ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+			"media": [
+				{
+					"id": "592316ed1061d41394faf39e",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/769d5e46-bb39-4517-b48b-d4d7e0982dba.jpg",
+					"name": "Car Radio.jpg",
+					"fileName": "Car Radio.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": false,
+					"sizeInBytes": 28168,
+					"type": "image",
+					"alternateSizes": []
+				},
+				{
+					"id": "5a1c936d1454aa0ee41c8f30",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+					"name": "music note.png",
+					"fileName": "music note.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 2930,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Car Radio",
+				"artist": "Twenty One Pilots",
+				"releaseDate": "2011-07-08T04:00:00.0000000+00:00",
+				"genre": "Rock",
+				"amazonLink":
+					"https://www.amazon.com/Car-Radio/dp/B00AN93RW6/ref=sr_1_1?ie=UTF8&qid=1495471824&sr=8-1&keywords=Car+radio+by+Twenty+One+Pilots",
+				"itunesLink":
+					"https://itunes.apple.com/us/album/car-radio/id585128397?i=585128671"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4821454950ee4b8a60d",
+		"timelineId": null,
+		"startTimeMs": 77018,
+		"endTimeMs": 82709,
+		"durationMs": 5691,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "592311181061d41394fae6c4",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Run the Jewels",
+			"description": "Self",
+			"timelineText": "Run the Jewels ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+			"media": [
+				{
+					"id": "592311601061d41394fae772",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+					"name": "run-the-jewels logo.jpg",
+					"fileName": "run-the-jewels logo.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 232763,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Run the Jewels",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/therealrunthejewels/",
+				"twitterUsername": "#runthejewels",
+				"bio":
+					"Run the Jewels, also known by the initialism RTJ, is an American hip hop[1][2] supergroup formed in 2013 by rapper/producer El-P and rapper Killer Mike.[3] They released their acclaimed debut studio album, Run the Jewels, as a free digital download in 2013.",
+				"web": "https://runthejewels.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4821454950ee4b8a72d",
+		"timelineId": null,
+		"startTimeMs": 82751,
+		"endTimeMs": 86459,
+		"durationMs": 3708,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "5923144b1061d41394faee4d",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Moon Taxi",
+			"description": "Self",
+			"timelineText": "Moon Taxi ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+			"media": [
+				{
+					"id": "592314671061d41394faee83",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/9a27674d-4055-4659-998b-2000a5d53afc.jpeg",
+					"name": "Moon Taxi.jpeg",
+					"fileName": "Moon Taxi.jpeg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 24947,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Moon",
+				"lastName": "Taxi",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/ridethemoontaxi/",
+				"twitterUsername": "@moontaxi",
+				"bio":
+					"Moon Taxi is an American indie-progressive rock band based in Nashville, Tennessee. The band was founded in 2006 by Trevor Terndrup, Tommy Putnam, Spencer Thomson, Tyler Ritter, and Wes Bailey while attending Belmont University.",
+				"web": "http://ridethemoontaxi.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4831454950ee4b8aa91",
+		"timelineId": null,
+		"startTimeMs": 74959,
+		"endTimeMs": 76876,
+		"durationMs": 1917,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58ab50f576b26e2998d4ab02",
+		"dataTypeName": "music",
+		"dataObject": {
+			"id": "592316e81061d41394faf371",
+			"dataTypeId": "58ab50f576b26e2998d4ab02",
+			"dataType": "multipleObjects",
+			"dataTypeName": "music",
+			"dataTypeDisplayName": "Music",
+			"name": "Car Radio",
+			"description": "",
+			"timelineText": "Car Radio ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+			"media": [
+				{
+					"id": "592316ed1061d41394faf39e",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/769d5e46-bb39-4517-b48b-d4d7e0982dba.jpg",
+					"name": "Car Radio.jpg",
+					"fileName": "Car Radio.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": false,
+					"sizeInBytes": 28168,
+					"type": "image",
+					"alternateSizes": []
+				},
+				{
+					"id": "5a1c936d1454aa0ee41c8f30",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+					"name": "music note.png",
+					"fileName": "music note.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 2930,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Car Radio",
+				"artist": "Twenty One Pilots",
+				"releaseDate": "2011-07-08T04:00:00.0000000+00:00",
+				"genre": "Rock",
+				"amazonLink":
+					"https://www.amazon.com/Car-Radio/dp/B00AN93RW6/ref=sr_1_1?ie=UTF8&qid=1495471824&sr=8-1&keywords=Car+radio+by+Twenty+One+Pilots",
+				"itunesLink":
+					"https://itunes.apple.com/us/album/car-radio/id585128397?i=585128671"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4831454950ee4b8b024",
+		"timelineId": null,
+		"startTimeMs": 82751,
+		"endTimeMs": 86459,
+		"durationMs": 3708,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58a752f45343ea02ecfa2a34",
+		"dataTypeName": "castMember",
+		"dataObject": {
+			"id": "592311181061d41394fae6c4",
+			"dataTypeId": "58a752f45343ea02ecfa2a34",
+			"dataType": "multipleObjects",
+			"dataTypeName": "castMember",
+			"dataTypeDisplayName": "Cast Members",
+			"name": "Run the Jewels",
+			"description": "Self",
+			"timelineText": "Run the Jewels ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+			"media": [
+				{
+					"id": "592311601061d41394fae772",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/1f002148-e862-49a8-8833-ef04e3ec981f.jpg",
+					"name": "run-the-jewels logo.jpg",
+					"fileName": "run-the-jewels logo.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": true,
+					"sizeInBytes": 232763,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"firstName": "Run the Jewels",
+				"characterName": "Self",
+				"gender": "Band",
+				"facebookLink": "https://www.facebook.com/therealrunthejewels/",
+				"twitterUsername": "#runthejewels",
+				"bio":
+					"Run the Jewels, also known by the initialism RTJ, is an American hip hop[1][2] supergroup formed in 2013 by rapper/producer El-P and rapper Killer Mike.[3] They released their acclaimed debut studio album, Run the Jewels, as a free digital download in 2013.",
+				"web": "https://runthejewels.com/"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4831454950ee4b8b32a",
+		"timelineId": null,
+		"startTimeMs": 77018,
+		"endTimeMs": 82709,
+		"durationMs": 5691,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58ab50f576b26e2998d4ab02",
+		"dataTypeName": "music",
+		"dataObject": {
+			"id": "592316e81061d41394faf371",
+			"dataTypeId": "58ab50f576b26e2998d4ab02",
+			"dataType": "multipleObjects",
+			"dataTypeName": "music",
+			"dataTypeDisplayName": "Music",
+			"name": "Car Radio",
+			"description": "",
+			"timelineText": "Car Radio ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+			"media": [
+				{
+					"id": "592316ed1061d41394faf39e",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/769d5e46-bb39-4517-b48b-d4d7e0982dba.jpg",
+					"name": "Car Radio.jpg",
+					"fileName": "Car Radio.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": false,
+					"sizeInBytes": 28168,
+					"type": "image",
+					"alternateSizes": []
+				},
+				{
+					"id": "5a1c936d1454aa0ee41c8f30",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+					"name": "music note.png",
+					"fileName": "music note.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 2930,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Car Radio",
+				"artist": "Twenty One Pilots",
+				"releaseDate": "2011-07-08T04:00:00.0000000+00:00",
+				"genre": "Rock",
+				"amazonLink":
+					"https://www.amazon.com/Car-Radio/dp/B00AN93RW6/ref=sr_1_1?ie=UTF8&qid=1495471824&sr=8-1&keywords=Car+radio+by+Twenty+One+Pilots",
+				"itunesLink":
+					"https://itunes.apple.com/us/album/car-radio/id585128397?i=585128671"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	},
+	{
+		"id": "5a01f4841454950ee4b8b806",
+		"timelineId": null,
+		"startTimeMs": 82751,
+		"endTimeMs": 86459,
+		"durationMs": 3708,
+		"startTimeUtc": null,
+		"endTimeUtc": null,
+		"dataTypeId": "58ab50f576b26e2998d4ab02",
+		"dataTypeName": "music",
+		"dataObject": {
+			"id": "592316e81061d41394faf371",
+			"dataTypeId": "58ab50f576b26e2998d4ab02",
+			"dataType": "multipleObjects",
+			"dataTypeName": "music",
+			"dataTypeDisplayName": "Music",
+			"name": "Car Radio",
+			"description": "",
+			"timelineText": "Car Radio ",
+			"mainImageUrl":
+				"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+			"media": [
+				{
+					"id": "592316ed1061d41394faf39e",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/769d5e46-bb39-4517-b48b-d4d7e0982dba.jpg",
+					"name": "Car Radio.jpg",
+					"fileName": "Car Radio.jpg",
+					"contentType": "image/jpeg",
+					"isMainImage": false,
+					"sizeInBytes": 28168,
+					"type": "image",
+					"alternateSizes": []
+				},
+				{
+					"id": "5a1c936d1454aa0ee41c8f30",
+					"url":
+						"https://sourcecentral.blob.core.windows.net/customer-58a752f45343ea02ecfa2a1b/94d040a1-578b-45f7-9527-4d9e9aea1df1.png",
+					"name": "music note.png",
+					"fileName": "music note.png",
+					"contentType": "image/png",
+					"isMainImage": true,
+					"sizeInBytes": 2930,
+					"type": "image",
+					"alternateSizes": []
+				}
+			],
+			"data": {
+				"name": "Car Radio",
+				"artist": "Twenty One Pilots",
+				"releaseDate": "2011-07-08T04:00:00.0000000+00:00",
+				"genre": "Rock",
+				"amazonLink":
+					"https://www.amazon.com/Car-Radio/dp/B00AN93RW6/ref=sr_1_1?ie=UTF8&qid=1495471824&sr=8-1&keywords=Car+radio+by+Twenty+One+Pilots",
+				"itunesLink":
+					"https://itunes.apple.com/us/album/car-radio/id585128397?i=585128671"
+			},
+			"cpm": null,
+			"cpc": null,
+			"defaultBrandId": null,
+			"productSuggestions": {
+				"specificProducts": [],
+				"enabledMarketplaceIds": [],
+				"keywords": null
+			}
+		},
+		"startBounds": null,
+		"endBounds": null,
+		"isRuleGenerated": false,
+		"ruleId": null,
+		"ruleName": null,
+		"hasProductSuggestions": false
+	}
+]

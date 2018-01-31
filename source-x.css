@@ -1,0 +1,418 @@
+/*
+	This will contain any custom styles that you want to apply to your embed content.
+	Be careful not to modify the size of the body or it could result in content being out of the iframe's viewport
+*/
+body {
+}
+
+.source-x-display {
+    top: 0px;
+    left: 0px;
+    width: 40%;
+    height: 85%;
+    position: absolute;
+    background: -webkit-linear-gradient(left, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 100%);
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.75) 0%, rgba(0, 0, 0, 0) 100%);
+    border-radius: 4px;
+    z-index: 1;
+    display: block;
+    padding: 2%;
+}
+
+.source-x-display-item-container {
+    height: 75%;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-bottom: 2%;
+}
+
+.source-x-display .source-x-item-image-div {
+    width: 18%;
+    min-width: 18%;
+    padding: 2%;
+}
+
+.source-x-item-image-div:hover {
+    opacity: 0.8;
+    box-shadow: 1px 1px 1px 1px #262626;
+    cursor: pointer;
+}
+
+.source-x-display .source-x-display-item img {
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+
+.source-x-display .source-x-display-item.load {
+    opacity: 1;
+    max-height: 100%;
+    max-width: 100%;
+    margin-bottom: 2%;
+    line-height: 2vh;
+    display: flex;
+}
+
+.source-x-display .source-x-display-item {
+    opacity: 0;
+    max-height: 0;
+    max-width: 0;
+    line-height: 0;
+    //margin-bottom: 8%;
+    transition: all 1s ease-out;
+}
+
+.source-x-display-item span {
+    color: whitesmoke;
+    font-size: 1rem;
+    font-family: Arial, helvetica, sans-serif;
+    letter-spacing: 0.5px;
+    line-height: 1.4;
+    margin-left: 2%;
+    text-align: left;
+    width: 95%;
+    text-overflow: wrap;
+    white-space: normal;
+    overflow: hidden;
+}
+
+#.source-x-item-text {
+    font-weight: bold;
+    color: Gainsboro;
+    font-size: 1.8vw;
+    line-height: 200%;
+    width: 80%;
+    float: left;
+    padding-top: 5%;
+    opacity: 1;
+    transition: ease-in-out, width 2s ease-in-out;
+}
+
+#.source-x-item-text b {
+    font-weight: bold;
+    font-size: 1.8vw;
+    line-height: 200%;
+    width: 80%;
+    float: left;
+}
+
+.source-x-display-controls {
+    text-align: left;
+    margin-top: 3vh;
+    margin-bottom: 2%;
+    width: 100%;
+    font-size: 1.8vw;
+}
+
+.source-x-display-controls:hover {
+    opacity: 0.7;
+}
+
+.source-x-display-controls a {
+    text-decoration: none;
+    color: whitesmoke;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.video-container {
+    font-size: 10px;
+    color: #fff;
+    line-height: 1;
+    font-weight: 400;
+    font-style: normal;
+    font-family: Arial, helvetica, sans-serif;
+    font: 14px 'Lucida Grande', Helvetica, Arial, sans-serif;
+    background-color: black;
+}
+
+.source-x-view-all {
+    top: 0px;
+    left: 0px;
+    position: absolute;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.3) 2%, rgba(0, 0, 0, 0.75) 100%);
+    border-radius: 4px;
+    z-index: 1;
+    padding: 1%;
+    width: 100%;
+    height: 90%;
+}
+
+.source-x-view-all-tabs {
+    position: relative;
+    top: 3vh;
+    text-align: left;
+}
+
+.source-x-tab {
+    text-decoration: none;
+    display: inline-block;
+    padding: 1%;
+    font-size: 1.8vw;
+    font-weight: bold;
+    color: #aaa;
+    cursor: pointer;
+    transition: ease-in-out, width 0.35s ease-in-out;
+}
+
+.source-x-tab:hover {
+    font-size: 2vw;
+}
+
+.source-x-view-all-item-container {
+    display: none;
+}
+
+.source-x-view-all-item-container.source-x-active-content {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.source-x-tab.source-x-active-tab {
+    color: white !important;
+}
+
+.source-x-close {
+    position: relative;
+    float: right;
+    z-index: 11;
+    cursor: pointer;
+    font-size: 1.5vw;
+}
+
+.source-x-view-all .source-x-close {
+    top: -3%;
+    right: 2%;
+    font-size: 2vw;
+}
+
+.source-x-view-all .source-x-close:hover {
+    top: -3%;
+    right: 2%;
+    font-size: 2.2vw;
+}
+
+.source-x-view-all-grid {
+    position: relative;
+    top: 3vh;
+    height: 80%;
+    overflow: auto;
+}
+
+.source-x-view-all .source-x-display-item {
+    text-align: center;
+    margin: 1%;
+    width: 22%;
+    float: right;
+    opacity: 1;
+    position: relative;
+    transition: ease-in-out, width 0.35s ease-in-out;
+}
+
+.source-x-view-all .source-x-display-item span {
+    position: absolute;
+    background: linear-gradient(180deg, rgba(0, 0, 0, 0.5) 0, rgba(0, 0, 0, 0.51) 1%, #000);
+    width: 90%;
+    bottom: 0%;
+    left: 0;
+    margin: 0;
+    padding: 12px;
+}
+
+.source-x-view-all-item-container .source-x-display-item .source-x-item-image-div {
+    max-width: 250px;
+    cursor: pointer;
+}
+
+.source-x-view-all-item-container .source-x-display-item .source-x-item-image-div img {
+    width: 100%;
+    height: auto;
+}
+
+.source-x-description-container {
+    position: absolute;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.25) 2%, rgba(0, 0, 0, 0.65) 62%, rgba(0, 0, 0, 0.85) 100%);
+    height: 90%;
+    width: 100%;
+    top: 0px;
+}
+
+.source-x-description-container .source-x-close {
+    top: 6%;
+    right: 2%;
+    font-size: 2vw;
+}
+
+.source-x-description-container .source-x-close:hover {
+    top: 6%;
+    right: 2%;
+    font-size: 2.2vw;
+}
+
+.source-x-description-container .source-x-description-item-container {
+    display: flex;
+    padding: 3%;
+    height: 92%;
+}
+
+.source-x-description-image-container {
+    width: 35%;
+    margin-top: 2%;
+}
+
+.source-x-description-item-container .source-x-description-image {
+    width: 100%;
+}
+
+.source-x-description-item-container .source-x-description-content {
+    margin: 2% 0 0 2%;
+    width: 100%;
+    height: 100%;
+    text-align: left;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.source-x-description-content .source-x-description-text {
+    text-align: justify;
+    padding: 0% 1.6% 2% 0;
+    margin: 1% 0;
+    overflow: auto;
+    max-height: 60%;
+}
+
+.source-x-description-content .source-x-button {
+    color: #ffffff;
+    box-sizing: border-box;
+    border-radius: 0.4em;
+    appearance: none;
+    cursor: pointer;
+    display: flex;
+    width: 150px;
+    height: 20px;
+    align-self: center;
+    font-weight: 300;
+    font-size: 0.8rem;
+    line-height: 0.5;
+    left: 50px;
+    margin: 20px;
+    padding: 0.6em 1.4em;
+    text-decoration: none;
+    text-align: center;
+    text-transform: uppercase;
+    text-overflow: none;
+    font-family: 'Montserrat', sans-serif;
+    float: right;
+    background-color: transparent;
+    box-shadow: 0 0 10px 0 #ffffff inset, 0 0 10px 1px #ffffff;
+    transition: all 150ms ease-in-out;
+
+    &:hover {
+        color: #000000;
+        box-sizing: border-box;
+        border-radius: 0.4em;
+        appearance: none;
+        cursor: pointer;
+        display: flex;
+        width: 150px;
+        height: 20px;
+        align-self: center;
+        font-weight: 300;
+        font-size: 0.8rem;
+        line-height: 0.5;
+        left: 50px;
+        margin: 20px;
+        padding: 0.6em 1.4em;
+        text-decoration: none;
+        text-align: center;
+        text-transform: uppercase;
+        text-overflow: none;
+        font-family: 'Montserrat', sans-serif;
+        float: right;
+        background-color: #ffffff;
+        box-shadow: 0 0 10px 0 #ffffff inset, 0 0 10px 1px #ffffff;
+    }
+}
+
+table {
+    width: 100%;
+    margin: auto;
+    border-collapse: collapse;
+    font-family: 'Lato', arial, helvetica, sans-serif;
+    line-height: 1.2em;
+}
+
+th,
+td {
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+/*
+tr { border-bottom: 1px solid #aaa; }
+tr:last-child { border-bottom: none; }
+
+td:not(:first-child) {
+  border-left: 1px solid #aaa;
+}
+*/
+
+/*
+Michael doesn't want the field name cells, so I'm hiding them here instead of rewriting the code.
+*/
+td:first-child:not([colspan='2']) {
+    display: none;
+}
+
+.field-name {
+    width: 50px;
+    font-weight: bold;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.field-text {
+    display: block;
+    max-width: 320px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.field-text-block {
+    display: block;
+    width: inherit;
+    max-height: 4.8em;
+    overflow-y: auto;
+    //  white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.more-info-btn {
+    color: #1e90ff;
+}
+
+.more-info-btn:hover {
+    cursor: pointer;
+}
+
+/*Added By Jeremiah 1/15/2018*/
+
+.video-container > iframe {
+    display: flex;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+
+/*
+.video-container {
+  position: relative;
+  width: 100%;
+  padding-top: 56.25%;
+}
+*/
