@@ -96,6 +96,10 @@ body {
     float: left;
 }
 
+.source-x-item-text:hover {
+    cursor: pointer;
+}
+
 .source-x-display-controls {
     text-align: left;
     margin-top: 3vh;

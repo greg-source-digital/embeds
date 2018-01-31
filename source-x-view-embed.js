@@ -226,6 +226,7 @@ function onEmbedLoaded(segments) {
                     let sourceXItemText = $('<span />');
 
                     sourceXItemImageContainer.attr('onclick', `onSourceXItemClick(event || window.event, "${seg.dataObject.id}")`);
+                    sourceXItemText.attr('onclick', `onSourceXItemClick(event || window.event, "${seg.dataObject.id}")`);
                     sourceXItemText.attr('class', 'source-x-item-text').html(getSourceXItemHtml(seg.dataObject));
 
                     sourceXItemImageContainer.append($('<img />').attr('src', thumbnailImageURL));
@@ -275,6 +276,7 @@ function onEmbedLoaded(segments) {
 
                 let sourceXItemText = $('<span />')
                     .attr('class', 'source-x-item-text')
+                    .attr('onclick', `onSourceXItemClick(event || window.event, "${dataObject.id}")`)
                     .html(getSourceXItemHtml(dataObject));
 
                 sourceXItem.append(sourceXItemText);
@@ -320,12 +322,6 @@ function onMouseEnterVideo() {
 }
 
 function onMouseLeaveVideo() {
-    // $(`.source-x-display`).css('display', 'none');
-    // $(`.source-x-view-all`).css('display', 'none');
     $(`.source-x-display`).fadeOut('fast');
     $(`.source-x-view-all`).fadeOut('fast');
 }
-
-// $(function() {
-//     init();
-// });
