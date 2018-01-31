@@ -1,3 +1,5 @@
+// Note: this file is pretty much obsolete, but I'm keeping it around for now...
+
 /*
   This function will receive a timeline segment object and should return either a raw HTML element or
   a JQuery element. Add the pause-on-click class to hyperlinks and other elements to automatically pause the player when clicked.
