@@ -139,14 +139,20 @@ function buildSourceXDescriptionHtml(sourceXDescriptionItemContainerNode, dataOb
         let shoppingLink = $('<a target="_blank"/>').attr('href', dataObject.data['shoppingLink']);
         let shoppingButton = $('<button />').attr('class', 'source-x-button');
 
-        moreInfoLink.append(moreInfoButton);
-        shoppingLink.append(shoppingButton);
-        descriptionLinks.append(moreInfoLink);
-        descriptionLinks.append(shoppingLink);
-        sourceXDescriptionContent.append(descriptionLinks);
-
         moreInfoButton.html('More Info').attr('onclick', 'onMoreInfoClick(event || window.event)');
         shoppingButton.html('Buy Now').attr('onclick', 'onBuyNowClick(event || window.event)');
+
+        if (dataObject.data['displayLink']) {
+            moreInfoLink.append(moreInfoButton);
+            descriptionLinks.append(moreInfoLink);
+        }
+
+        if (dataObject.data['shoppingLink']) {
+            shoppingLink.append(shoppingButton);
+            descriptionLinks.append(shoppingLink);
+        }
+
+        sourceXDescriptionContent.append(descriptionLinks);
     }
 }
 
@@ -223,7 +229,7 @@ function onEmbedLoaded(segments) {
                     let sourceXItemDivClassName = `source-x-display-item`;
                     let sourceXItem = $(`<div />`).attr({ id: sourceXItemDivId, class: sourceXItemDivClassName, 'data-object-id': seg.dataObject.id });
                     let sourceXItemImageContainer = $('<div />').attr('class', 'source-x-item-image-div');
-                    let sourceXItemText = $('<span />');
+                    let sourceXItemText = $('<div />');
 
                     sourceXItemImageContainer.attr('onclick', `onSourceXItemClick(event || window.event, "${seg.dataObject.id}")`);
                     sourceXItemText.attr('onclick', `onSourceXItemClick(event || window.event, "${seg.dataObject.id}")`);
@@ -274,7 +280,7 @@ function onEmbedLoaded(segments) {
                 sourceXItem.append(sourceXItemImageContainer);
                 sourceXItemImageContainer.append(imgNode);
 
-                let sourceXItemText = $('<span />')
+                let sourceXItemText = $('<div />')
                     .attr('class', 'source-x-item-text')
                     .attr('onclick', `onSourceXItemClick(event || window.event, "${dataObject.id}")`)
                     .html(getSourceXItemHtml(dataObject));
@@ -312,8 +318,6 @@ function onSegmentEnding(seg) {
 }
 
 function onVideoClicked() {
-    console.warn('onVideoClicked test...');
-
     if (showMode != ShowMode.DETAILS) window.sourcePlayer.play();
 }
 
@@ -322,6 +326,6 @@ function onMouseEnterVideo() {
 }
 
 function onMouseLeaveVideo() {
-    $(`.source-x-display`).fadeOut('fast');
-    $(`.source-x-view-all`).fadeOut('fast');
+    //$(`.source-x-display`).fadeOut('fast');
+    //$(`.source-x-view-all`).fadeOut('fast');
 }
